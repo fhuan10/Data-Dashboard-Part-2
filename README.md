@@ -15,8 +15,8 @@ The following **required** functionality is completed:
 - [x] **The app dashboard includes at least three summary statistics about the data such as**
   - [x] Name of the recipe
   - [x] How long will it take to make the recipe
-  - [x] Amount of servings per recipe
-  - [x] Types of cusines this recipe belongs to
+  - [x] Amount of servings for the recipe
+  - [x] Types of cuisines each recipe belongs to
   - [x] Number of results shown based on the filters the user select
 - [x] **A search bar allows the user to search for an item in the fetched data**
 - [x] **Multiple different filters (2+) allow the user to filter items in the database by specified categories**
