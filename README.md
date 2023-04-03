@@ -9,24 +9,9 @@ Time spent: 6 hours spent in total
 ## Required Features
 
 The following **required** functionality is completed:
-
-<<<<<<< HEAD
 - [x] **The app includes at least two unique chart developed using the fetched data that tell an interesting story**
 - [x] **Clicking on an item in the list view displays more details about it**
 - [x] **Clicking on an item has a direct, unique link to that item's detail view page**
-
-=======
-- [x] **The list displays a list of data fetched using an API call**
-- [x] **Data uses the useEffect React hook and async/await syntax**
-- [x] **The app dashboard includes at least three summary statistics about the data such as**
-  - [x] Name of the recipe
-  - [x] How long will it take to make the recipe
-  - [x] Amount of servings for the recipe
-  - [x] Types of cuisines each recipe belongs to
-  - [x] Number of results shown based on the filters the user select
-- [x] **A search bar allows the user to search for an item in the fetched data**
-- [x] **Multiple different filters (2+) allow the user to filter items in the database by specified categories**
->>>>>>> 5e393107d268d32ce121162903ef3225a659cded
 
 The following **optional** features are implemented:
 
