@@ -1,8 +1,19 @@
 #root {
-  max-width: 1280px;
+  max-width: 1480px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+}
+
+.Header {
+  background-color: rgb(83, 60, 31);
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.NavigationHeader {
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .Cards {
@@ -87,4 +98,53 @@ td {
   height:50px;
   width:300px;
   padding-left: 10px;
+}
+
+.DetailView {
+  background-color: rgb(43, 77, 82);
+  margin-top: 20px;
+  padding-top:5px;
+  padding-bottom:10px;
+  border-radius: 5px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.About {
+  background-color:rgb(87, 87, 47);
+  padding-bottom: 5px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.About h1 {
+  padding-top: 8px;
+}
+
+.DataVisuals {
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+.DataVisualsButton {
+  width:300px;
+  height:50px;
+  background-color: rgb(26, 77, 77);
+  border-radius: 5px;
+  border:none;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.DataVisualsButton:hover {
+  background-color: rgb(75, 175, 175);
+  cursor: pointer;
+}
+
+.BarChartVisual {
+  background-color:rgb(44, 32, 59);
+  padding-top:5px;
+  padding-right: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
 }

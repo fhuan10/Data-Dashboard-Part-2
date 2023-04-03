@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 function List(item) {
     let cusineStr = "";
 
@@ -23,6 +24,11 @@ function List(item) {
       <td>{item.readyInMinutes}</td>
       <td>{item.servings}</td>
       <CreateCusineString></CreateCusineString>
+      <td key={item.id}>
+        <Link to={`/recipes/${item.id}`}>
+        🔗
+        </Link>
+      </td>
     </tr>
   )
 }
