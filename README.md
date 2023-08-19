@@ -4,8 +4,6 @@ Submitted by: Flora Huang
 
 This web app: Not only the user can view and filter the recipes (fetched from the API) but the user can click on individualized links to each recipe to read more about it. In addition, data visualizations are added. 
 
-Time spent: 6 hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
